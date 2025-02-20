@@ -4,6 +4,7 @@ Exercise 4
 Client Side Programming
 February 20, 2024*/
 
+//Original Script
 student_name = Nadia;
 studentAge == "20";
 isEnrolled = True; 
